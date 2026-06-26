@@ -1,8 +1,12 @@
-## hey i'm Alex 🦦
+## Hey, I'm Alex 🦦
 
-Here are some ideas to get you started:
+Software Developer @ RBC  
+Fourth-year Computer Science student @ Dalhousie University
+Currently working on an AI helpfesk platform @ RBC
 
-- 🔭 I’m currently working on an AI helpdesk platform @ RBC
-- 🌱 I'm a 4th year CS student at Dalhousie University
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i started programming in java when i was 10 through a minecraft gamebased learning platform (i <3 java) 
+Currently interested in:
+- backend engineering
+- building APIs
+- developer tooling
+
+Fun fact: I learned Java through a Minecraft-based coding game when I was 10, and it's still my favorite language.

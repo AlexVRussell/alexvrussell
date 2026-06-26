@@ -10,4 +10,4 @@ Currently interested in:
 - developer tooling
 ```
 
-Fun fact: I learned 'Java' through a Minecraft-based coding game when I was 10, and it's still my favorite language.
+Fun fact: I learned `Java` through a Minecraft-based coding game when I was 10, and it's still my favorite language.

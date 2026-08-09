@@ -1,6 +1,6 @@
 ## Hey, I'm Alex 🦦
 
-Software Developer @ RBC, currently working on an AI helpfesk platform
+Software Developer @ RBC, currently working on an Internal AI helpfesk platform
 
 Fourth-year Computer Science student @ Dalhousie University
 
